@@ -1,0 +1,19 @@
+* 将emacs作为守护进程启动
+- 开启 :: systemctl start emacs --user
+- 重开 :: systemctl restart emacs --user
+- 关闭 :: systemctl stop emacs --user
+- 启动 :: emacsclient -c -a %
+* 查看帮助
+- C-h f :: 查看函数的文档
+- C-h k :: 查看快捷键绑定的命令
+- C-h w :: 查看命令绑定的快捷键
+- C-h m :: 查看某个mode的文档
+* 添加自己的配置
+  - 在etc/init-config.el中添加(require 'my-init),要在(require 'init-graphic)之前
+
+* 修改开始界面
+- 在init-basic.el 中的add-hook的lambda函数添加
+* 格式化代码
+  - C-M \
+* 开启orgmode补全
+  - company

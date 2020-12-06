@@ -1,0 +1,1 @@
+/home/yzl178me/orgNote/linux/ln 例子/b/b.txt
