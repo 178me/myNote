@@ -17,3 +17,6 @@
   - C-M \
 * 开启orgmode补全
   - company
+    
+* org文件链接默认打开方式
+  - (setq browse-url-browser-function 'browse-url-default-browser)
