@@ -1,0 +1,6 @@
+* wps
+  - et :: 打开表格
+  - wps :: word文档
+  - wpp :: ppt
+* pacman 
+  - [[https://blog.csdn.net/lu_embedded/article/details/50520647][基本用法]]

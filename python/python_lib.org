@@ -1,0 +1,8 @@
+* pynput :: 一个监听鼠标键盘的库
+** pip安装
+** 例子
+   https://pynput.readthedocs.io/en/latest/keyboard.html#monitoring-the-keyboard
+* pyautogui :: GUI自动化工具
+** 资料
+   - 中文文档 :: https://blog.csdn.net/Game_jqd/article/details/86478419
+   - 知乎 :: https://zhuanlan.zhihu.com/p/302592540
