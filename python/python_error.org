@@ -1,0 +1,2 @@
+* No value for argument 'point' in unbound method call
+  这个错误是因为没有类没有生成实例直接调用方法
